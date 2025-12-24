@@ -1,3 +1,4 @@
+辽宁,#genre#
 辽宁体育休闲,http://lihetl.com:9527/rtp/232.0.0.66:8820$辽宁uip1
 辽宁公共,http://lihetl.com:9527/rtp/232.0.0.156:9322$辽宁uip1
 辽宁北方,http://lihetl.com:9527/rtp/232.0.0.211:9240$辽宁uip1
@@ -989,5 +990,6 @@ C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 华文五套,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 华文八套,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+
 
 
